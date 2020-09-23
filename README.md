@@ -1,2 +1,2 @@
-# fcd-docker-challenge
-Fullcycle Developer - docker challenge
+# Docker challenge
+You can download the "go optimized image" on dockerhub: jpuggian/codeeducation
